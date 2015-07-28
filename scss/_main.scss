@@ -1,3 +1,9 @@
+//ctc color
+$orange:#F69125;
+
+.orange{
+    background-color: $orange;
+}
 body {
     margin: 0px;
     padding: 0px;
@@ -783,7 +789,7 @@ canvas {
 }
 
 .titlehometour {
-    background-color: #434A54;
+    background-color: #036F74;
     padding: 20px;
     color: #b1bac3;
 }
