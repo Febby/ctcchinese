@@ -1021,6 +1021,13 @@ canvas {
     border-top: 1px solid #f4f4f6;
     -webkit-box-shadow: inset -1px 0px 0px 0px rgba(244, 244, 246, 1.0);
     box-shadow: inset -1px 0px 0px 0px rgba(244, 244, 246, 1.0);
+    //add background color
+    background-color: #C8F5F7;
+    transition: all 0.6s linear;
+    &:hover{
+        background-color: #fff;
+        box-shadow: inset 5px 0px 0px 0px rgba(251, 204, 38, 1.0);
+    }
 }
 
 .contacthometour span,
